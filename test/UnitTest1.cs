@@ -12,9 +12,7 @@ namespace test
         [Test]
         public void Test1()
         {
-            var class1 = new Class1();
-            class1.echo();
-            Assert.Pass();
+            // var class1 = new Class1();
         }
     }
 }

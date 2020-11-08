@@ -21,3 +21,5 @@ dotnet main.dll
 [dotnet プロジェクト作成方法](https://qiita.com/jnuank/items/e9aeb2d8c99d1e6f1081)
 
 [NLog 使い方](https://qiita.com/developpermanati/items/1de20d836070f42049cf)
+
+[C# aws sdk documet](https://docs.aws.amazon.com/sdkfornet/v3/apidocs/Index.html)
